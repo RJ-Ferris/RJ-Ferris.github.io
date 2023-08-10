@@ -1,0 +1,93 @@
+body {background-color: lightpink;}
+footer {background-color: darkgray;
+color: white;
+font-family: arial;
+font-size: 40px}
+
+h1 {
+  font-family: Arial;
+  text-align: center;
+  color: white;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: Arial;
+  text-align: center;
+  color: darkgray;
+  font-size: 40px
+}
+
+.Body {
+  font-family: Arial;
+  text-align: justify;
+  color: grey;
+  font-size: 30px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+li {
+  border: 100;
+  font-family: Arial;
+  font-size: 30px;
+  color: azure;
+}
+
+table {
+  font-family: Arial;
+  font-size: 30px;
+  color: white;
+  table-layout: fixed;
+  border-style: one;
+  border: 5px, white;
+  width: 600px;
+  position: bottom;
+}
+
+th{
+  text-transform: uppercase;
+  background-color: pink;
+}
+tr {
+  font-family: arial;
+  border-top: 3px, gray;
+  background-color: palevioletred;
+}
+tr:hover{
+  background-color:white;
+  color: darkgray;
+}
+
+.Arial {
+  font-family: Arial;
+  font-size: 20px}
+  
+.Verdana {
+  font-family: Verdana;
+  font-size: 20px}
+
+.Tahoma {
+  font-family: Tahoma;
+  font-size: 20px}
+
+.Trebuchet {
+  font-family: Trebuchet;
+  font-size: 20px}
+
+.Times {
+  font-family: times;
+  font-size: 20px}
+
+.Georgia {
+  font-family: Georgia;
+  font-size: 20px}
+
+.Garamond {
+  font-family: Garamond;
+  font-size: 20px}
+
+.Courier {
+  font-family: courier;
+  font-size: 20px}
+
